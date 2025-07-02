@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - NPC
+  - Journal
+  - Weapon
+  - Mask
+  - Page
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2386705525
+    locked: 0
+  - name: Walls
+    uniqueID: 4230051353
+    locked: 0
+  - name: Platforms
+    uniqueID: 2226723511
+    locked: 0
+  - name: Decorations
+    uniqueID: 941169453
+    locked: 0
+  - name: Player
+    uniqueID: 2924788165
+    locked: 0
+  m_RenderingLayers:
+  - Default
